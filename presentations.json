@@ -1,0 +1,919 @@
+{
+    // 2021
+    "Capriotti2021":{
+        "authors": [
+            "Capriotti, J.",
+            "Heagy, L. J.",
+            "Kuttai, J."
+        ],
+        "title": "Geophysical simiulations and inversions with SimPEG",
+        "event": "Engineering and Mining Geophysics 2021.} European Association of Geoscientists & Engineers (EAGE)",
+        "location": "(virtual)",
+        "year": "2021",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": "10.3997/2214-4609.202152259",
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2021pyconco": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Openness: a new dimension to science",
+        "event": "5th Annual PyCon Colombia",
+        "location": "Colombia (virtual)",
+        "year": "2021",
+        "keynote": "True",
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": "https://2021.pycon.co/en",
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2021mdru": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Geophysical inversions, data science and collaboration opportunities",
+        "event": "Mineral Deposit Research Unit Speaker Series",
+        "location": "Vancouver, BC (virtual)",
+        "year": "2021",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": "https://2021.pycon.co/en/",
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2021sustainability": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Towards open science: learnings from open source communities",
+        "event": "Sustainability in the Digital Age Speaker Series",
+        "location": "LEADS NSERC CREATE (virtual)",
+        "year": "2021",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": "https://sustainabilitydigitalage.org/author/admin/page/2",
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2021eminar": {
+        "authors": [
+            "Heagy, L. J.",
+            "Kang, S.",
+            "Oldenburg, D. W."
+        ],
+        "title": "Capturing knowledge in code: SimPEG and GeoSci",
+        "event": "MTNet EMinar Series",
+        "location": null,
+        "year": "2021",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": "https://www.mtnet.info/EMinars/EMinars.html",
+        "youtube": "UetPdFS4JaQ",
+        "upcoming": null
+    },
+
+    // 2020
+    "Capriotti2020":{
+        "authors": [
+            "Capriotti, J.",
+            "Kang, S.",
+            "Cowan, D.",
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "title": "Open-source direct current resistivity software development for groundwater applications",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Cima2020":{
+        "authors": [
+            "Cima, A.",
+            "Sapienza, F.",
+            "Snow, T.",
+            "Grigsby, S.",
+            "Heagy, L. J.",
+            "Pérez, F.",
+            "Siegfried, M."
+        ],
+        "title": "Fusion of ICESat-2 and complementary remote sensing data for interactive visualization in Jupyter",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Fan2020":{
+        "authors": [
+            "Fan, S.",
+            "Oldenburg, D. W.",
+            "Maxwell, M.",
+            "Cowan, D.",
+            "Heagy, L. J.",
+            "Kang, S.",
+            "Capriotti, J.",
+            "Stephens, M.",
+            "Maung, S.",
+            "Aye, Y. Y.",
+            "Oo, Z. L."
+        ],
+        "title": "Improving Water Security in Southeastern Myanmar via Geophysical Capacity Building",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Grigsby2020":{
+        "authors": [
+            "Grigsby, S.",
+            "Sapienza, F.",
+            "Snow, T.",
+            "Cima, A.",
+            "Heagy, L. J.",
+            "Siegfried, M.",
+            "Pérez, F.",
+            "Taylor, J."
+        ],
+        "title": "Spatio-Temporal Interpolation of Cloud Data",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2020segsimpeg": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "SimPEG Overview",
+        "event": "Workshop on SimPEG for Mineral Explorationists, SEG Annual Meeting",
+        "location": "Houtson, TX (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2020seguxo": {
+        "authors": [
+            "Heagy, L. J.",
+            "Oldenburg, D. W.",
+            "Pérez, F.",
+            "Beran, L."
+        ],
+        "title": "Using neural networks for the classification of unexploded ordnance (UXO) from electromagnetic data",
+        "event": "Workshop on Machine Learning/Artificial Intelligence in Mineral Exploration, SEG Annual Meeting",
+        "location": "Houtson, TX (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2020agu": {
+        "authors": [
+            "Heagy, L. J.",
+            "Capriotti, J.",
+            "Kuttai, J.",
+            "Cowan, D.",
+            "Pérez, F.",
+            "Hamman, J.",
+            "Banihirwe, A.",
+            "Paul, K."
+        ],
+        "title": "Advances in Magnetotelluric modelling and inversion with SimPEG",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2020gage": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Community driven development of open source tools for simulations and inversions of geophysical data",
+        "event": "GAGE/SAGE Plenary Session",
+        "location": null,
+        "year": "2020",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": "https://www.iris.edu/hq/calendar/event/gage_sage_plenary_webinar_new_approaches_to_processing_big_geophysical_and_geospatial_datasets",
+        "youtube": "UE5MPi5aBhk",
+        "upcoming": null
+    },
+    "Heagy2020chevening": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Towards open, collaborative practices in geophysics: examples from the SimPEG community",
+        "event": "Chevening Talks",
+        "location": "Tabasco Province, Mexico (Virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2020bags": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Towards open, collaborative practices in geophysics",
+        "event": "Bay Area Geophysics Society",
+        "location": "Berkeley, California",
+        "year": "2020",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": "http://www.bayareageophysicalsociety.org/Archives/Talks/Heagy_2019.pdf",
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2020stanfordrepro": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Reproducibility as the engine of science: tools for reproducible research",
+        "event": "Scientific publication beyond the text: Sharing research objects",
+        "location": "Stanford Center for Reproducible Neuroscience",
+        "year": "2020",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": "https://reproducibility.stanford.edu/scientific-publication-beyond-the-text-sharing-research-objects-summary-with-videos",
+        "youtube": "ngXmNtc_jps",
+        "upcoming": null
+    },
+    "Heagy2020stanfordgeoph": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "From geophysical inversions to open, collaborative geoscience",
+        "event": "Stanford Geophysics Seminars",
+        "location": "Stanford, California",
+        "year": "2020",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Moges2020": {
+        "authors": [
+            "Moges, E.",
+            "Zhang, L.",
+            "Larsen, L.",
+            "Heagy, L. J.",
+            "Pérez, F."
+        ],
+        "title": "Jupyter Supported Interactive Data Processing Workflow for Intensively Monitored Watersheds across the US",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Oldenburg2020": {
+        "authors": [
+            "Oldenburg, D. W.",
+            "Heagy, L. J.",
+            "Kang, S.",
+            "Cowan, D.",
+            "Capriotti, J.",
+            "Fan, S.",
+            "Maxwell, M."
+        ],
+        "title": "An open-source approach to capacity building for hydrogeophysics",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Perez2020": {
+        "authors": [
+            "Pérez, F.",
+            "Hamman, J.",
+            "Larsen, L.",
+            "Paul, K.",
+            "Heagy, L. J.",
+            "Moges, E.",
+            "Banihirwe, A.",
+            "Sundell, E.",
+            "Cima, A.",
+            "Sapienza, F."
+        ],
+        "title": "Jupyter meets the Earth: connecting Jupyter development with geoscience research",
+        "event": "JupyterCon",
+        "location": "(virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Perez2020agu": {
+        "authors": [
+            "Pérez, F.",
+            "Hamman, J.",
+            "Larsen, L.",
+            "Paul, K.",
+            "Heagy, L. J.",
+            "Moges, E.",
+            "Banihirwe, A.",
+            "Cima, A.",
+            "Sapienza, F."
+            "Sundell, E.",
+            "Holdgraf, C."
+        ],
+        "title": "Jupyter meets the Earth: connecting Jupyter development with geoscience research",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Sapienza2020": {
+        "authors": [
+            "Sapienza, F.",
+            "Snow, T.",
+            "Cima, A.",
+            "Grigsby, S.",
+            "Heagy, L. J.",
+            "Pérez, F.",
+            "Siegfried, M.",
+            "Taylor, J."
+        ],
+        "title": "Multimodal Dataset Integration for Cloud Masking of ICESat-2",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Scheick2020": {
+        "authors": [
+            "Scheick, J.",
+            "Arendt, A. A.",
+            "Heagy, L. J.",
+            "Paolo, F.",
+            "Pérez, F.",
+            "Steiker, A."
+        ],
+        "title": "icepyx: Developing Community and Software Around ICESat-2 Data",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Werthmuller2020": {
+        "authors": [
+            "Werthmüller, D.",
+            "Rochlitz, R.",
+            "Castillo-Reyes, O.",
+            "Heagy, L. J."
+        ],
+        "title": "Open-Source Landscape for Three-Dimensional Controlled-Source Electromagnetic Modeling",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California (virtual)",
+        "year": "2020",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+
+    // 2019
+    "Heagy2020stanfordgeoph": {
+        "authors": [
+            "Heagy, L. J.",
+            "Oldenburg, D. W.",
+            "Kang, S.",
+            "Melo, A. T.",
+            "Pérez, F."
+        ],
+        "title": "Interactive geophysics: GeoSci.xyz",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California",
+        "year": "2019",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": "https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/540263",
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2019csm": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Jupyter meets the Earth: from geophysical inversions to open, collaborative geoscience",
+        "event": "Colorado School of Mines Heiland Lecture",
+        "location": "Golden, Colorado",
+        "year": "2019",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2019wids": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Jupyter meets the Earth: from geophysical inversions to open, collaborative geoscience",
+        "event": "Women In Data Science @ Stanford Earth",
+        "location": "Stanford, California",
+        "year": "2019",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": "https://earth.stanford.edu/news/outstanding-research-outstanding-women#gs.5e8hfv",
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2019scipyla": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Capturing knowledge in code",
+        "event": "7th Latin American Conference for Scientific Python",
+        "location": "Bogotá, Colombia",
+        "year": "2019",
+        "keynote": "True",
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": "https://conf.scipy.lat/en",
+        "youtube": "cb-gFHRZCIc",
+        "upcoming": null
+    },
+    "Heagy2019pangeo": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Science enabled by open source tools and communities: Geophysical simulations and inversions",
+        "event": "Pangeo Annual Meeting",
+        "location": "Seattle, Washington",
+        "year": "2019",
+        "keynote": "True",
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2019iugg": {
+        "authors": [
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "title": "Exploring the Physics of Electromagnetics with Steel-Cased Wells Using Open-Source Tools",
+        "event": "International Union of Geodesy and Geophysics (IUGG)",
+        "location": "Montreal, Quebec",
+        "year": "2019",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2019sdss": {
+        "authors": [
+            "Heagy, L. J."
+        ],
+        "title": "Sharing Reproducible Computations on Binder",
+        "event": "Symposium on Data Science and Statistics (SDSS)",
+        "location": "Seattle, Washington",
+        "year": "2019",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Scheick2019": {
+        "authors": [
+            "Scheick, J.",
+            "Arendt, A. A.",
+            "Heagy, L. J.",
+            "Pérez, F.",
+        ],
+        "title": "Introducing icesat2py, an Open Source Python Library for Obtaining and Working with ICESat-2 Data",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California",
+        "year": "2019",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+
+    // 2018
+    "Heagy2018aem": {
+        "authors": [
+            "Heagy, L. J.",
+            "Kang, S.",
+            "Cockett, R.",
+            "Oldenburg, D. W."
+        ],
+        "title": "Open source software for simulations and inversions of airborne electromagnetic data",
+        "event": "AEM 2018: 7th International Workshop on Airborne Electromagnetics",
+        "location": "Kolding, Denmark",
+        "year": "2018",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+
+    // 2017
+    "Heagy2017jupytercon": {
+        "authors": [
+            "Heagy, L. J.",
+            "Cockett, R.",
+        ],
+        "title": "Deploying a reproducible course",
+        "event": "JupyterCon",
+        "location": "New York, New York",
+        "year": "2017",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": "XY3Tq9Wd1_A",
+        "upcoming": null
+    },
+    "Heagy2017scipy": {
+        "authors": [
+            "Heagy, L. J.",
+            "Cockett, R.",
+        ],
+        "title": "Interactive Geophysics",
+        "event": "SciPy Conference",
+        "location": "Austin, Texas",
+        "year": "2017",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": "NuUe2ja5LCE",
+        "upcoming": null
+    },
+    "Heagy2017bcgs": {
+        "authors": [
+            "Heagy, L. J.",
+            "Fournier, D.",
+            "Kang, S.",
+            "Miller, C."
+        ],
+        "title": "Simulation and parameter estimation in geophysics",
+        "event": "British Columbia Geophysical Society Meeting",
+        "location": "Vancouver, British Columbia",
+        "year": "2017",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+
+    // 2016
+    "Heagy2016agugeosci": {
+        "authors": [
+            "Heagy, L. J.",
+            "Cockett, R.",
+            "Oldenburg, D. W."
+        ],
+        "title": "GeoSci: practices to collaboratively build online resources for geophysics education",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California",
+        "year": "2016",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2016agu": {
+        "authors": [
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "title": "Examining the impact of steel cased wells on electromagnetic signals",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California",
+        "year": "2016",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2016scipy": {
+        "authors": [
+            "Heagy, L. J.",
+        ],
+        "title": "Using open source tools to refactor geoscience education",
+        "event": "SciPy Conference",
+        "location": "Austin, Texas",
+        "year": "2016",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": "IW2LDsevvDk",
+        "upcoming": null
+    },
+    "Kang2016agu": {
+        "authors": [
+            "Kang, S.",
+            "Cockett, R.",
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "title": "Practices to enable the geophysical research spectrum: from fundamentals to applications",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California",
+        "year": "2016",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+
+    // 2015
+    "Cockett2015agu": {
+        "authors": [
+            "Cockett, R.",
+            "Heagy, L. J.",
+            "Kang, S.",
+            "Rosenkjaer, G. K."
+        ],
+        "title": "Development practices and lessons learned in developing SimPEG",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California",
+        "year": "2015",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2015scipy": {
+        "authors": [
+            "Heagy, L. J.",
+        ],
+        "title": "Using Python to Span the Gap between Education, Research, and Industry Applications in Geophysics",
+        "event": "SciPy Conference",
+        "location": "Austin, Texas",
+        "year": "2015",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": "4msHJMBvzaI",
+        "upcoming": null
+    },
+    "Heagy2015agu": {
+        "authors": [
+            "Heagy, L. J.",
+            "Cockett, R.",
+            "Kang, S.",
+            "Rosenkjaer, G. K.",
+            "Oldenburg, D. W."
+        ],
+        "title": "simpegEM: An open-source resource for simulation and parameter estimation problems in electromagnetic geophysics",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California",
+        "year": "2015",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2015agugeosci": {
+        "authors": [
+            "Heagy, L. J.",
+            "Cockett, R.",
+            "Kang, S.",
+            "Oldenburg, D. W."
+        ],
+        "title": "Real simulation tools in introductory courses: packaging and repurposing our research code",
+        "event": "AGU Fall Meeting",
+        "location": "San Francisco, California",
+        "year": "2015",
+        "keynote": null,
+        "invited": null,
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+
+    // 2014
+    "Heagy2014segdp": {
+        "authors": [
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "title": "Using electromagnetics to delineate proppant distribution in a hydraulically fractured reservoir",
+        "event": "SEG Development and Production Forum",
+        "location": "Santa Rosa, California",
+        "year": "2014",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    },
+    "Heagy2014cseg": {
+        "authors": [
+            "Heagy, L. J.",
+            "Oldenburg, D. W.",
+            "Chen, J."
+        ],
+        "title": "Where does the proppant go? Examining the application of electromagnetic methods for hydraulic fracture characterization",
+        "event": "GeoConvention",
+        "location": "Calgary, Alberta",
+        "year": "2014",
+        "keynote": null,
+        "invited": "True",
+        "award": null,
+        "hqp-lead": null,
+        "doi": null,
+        "url": null,
+        "youtube": null,
+        "upcoming": null
+    }
+}
