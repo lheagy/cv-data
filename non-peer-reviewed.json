@@ -1,0 +1,81 @@
+{
+    "Oldenburg2021": {
+        "authors": [
+            "Oldenburg, D. W.",
+            "Heagy, L. J.",
+            "Kang, S."
+        ],
+        "booktitle": null,
+        "title": "{Geophysical electromagnetics: A retrospective, DISC 2017, and a look forward}",
+        "year": "2021",
+        "journal": "The Leading Edge",
+        "doi": "10.1190/tle40020140.1",
+        "arxivId": null,
+        "url": null
+    },
+    "Barba2019": {
+        "authors": [
+            "Barba, L. A.",
+            "Barker, L. J.",
+            "Blank, D. S.",
+            "Brown, J.",
+            "Downey, A. B.",
+            "George, T.",
+            "Heagy, L. J.",
+            "Mandli, K. T.",
+            "Moore, J. K.",
+            "Lippert, D.",
+            "Others, "
+        ],
+        "booktitle": null,
+        "title": "{Teaching and Learning with Jupyter}",
+        "year": "2019",
+        "journal": null,
+        "doi": null,
+        "arxivId": null,
+        "url": "https://jupyter4edu.github.io/jupyter-edu-book/"
+    },
+    "Kang2017": {
+        "authors": [
+            "Kang, S.",
+            "Heagy, L. J.",
+            "Cockett, R.",
+            "Oldenburg, D. W."
+        ],
+        "booktitle": null,
+        "title": "{Exploring nonlinear inversions: A 1D magnetotelluric example}",
+        "year": "2017",
+        "journal": "The Leading Edge",
+        "doi": "10.1190/tle36080696.1",
+        "arxivId": null,
+        "url": "https://library.seg.org/doi/10.1190/tle36080696.1"
+    },
+    "Cockett2016": {
+        "authors": [
+            "Cockett, R.",
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "booktitle": null,
+        "title": "{Pixels and their neighbors: Finite volume}",
+        "year": "2016",
+        "journal": "The Leading Edge",
+        "doi": "10.1190/tle35080703.1",
+        "arxivId": null,
+        "url": "http://library.seg.org/doi/10.1190/tle35080703.1 http://dx.doi.org/10.1190/tle35080703.1 http://tle.geoscienceworld.org/content/35/8/703 https://library.seg.org/doi/10.1190/tle35080703.1"
+    },
+    "Wilt2015": {
+        "authors": [
+            "Wilt, M.",
+            "Cuevas, N.",
+            "Heagy, L."
+        ],
+        "booktitle": null,
+        "title": "{Determining proppant and fluid distribution}",
+        "year": "2015",
+        "journal": null,
+        "doi": null,
+        "arxivId": null,
+        "url": "https://www.google.com/patents/US20150083404"
+    }
+}

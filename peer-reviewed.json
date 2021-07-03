@@ -1,0 +1,248 @@
+{
+    "Werthmuller2020": {
+        "authors": [
+            "Werthm{\\\"{u}}ller, D.",
+            "Rochlitz, R.",
+            "Castillo-Reyes, O.",
+            "Heagy, L."
+        ],
+        "booktitle": null,
+        "title": "{Towards an open-source landscape for 3D CSEM modelling}",
+        "year": "2021",
+        "journal": "Geophysical Journal International",
+        "doi": "10.1093/gji/ggab238",
+        "arxivId": "2010.12926",
+        "url": "http://arxiv.org/abs/2010.12926 https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggab238/6307022"
+    },
+    "Oldenburg2020a": {
+        "authors": [
+            "Oldenburg, D. W.",
+            "Heagy, L. J.",
+            "Kang, S.",
+            "Cockett, R."
+        ],
+        "booktitle": null,
+        "title": "{3D electromagnetic modelling and inversion: a case for open source}",
+        "year": "2020",
+        "journal": "Exploration Geophysics",
+        "doi": "10.1080/08123985.2019.1580118",
+        "arxivId": "1902.08245",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/08123985.2019.1580118"
+    },
+    "Kang2019": {
+        "authors": [
+            "Kang, S.",
+            "Oldenburg, D. W.",
+            "Heagy, L. J."
+        ],
+        "booktitle": null,
+        "title": "{Detecting induced polarisation effects in time-domain data: a modelling study using stretched exponentials}",
+        "year": "2020",
+        "journal": "Exploration Geophysics",
+        "doi": "10.1080/08123985.2019.1690393",
+        "arxivId": "1909.12993",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/08123985.2019.1690393"
+    },
+    "Fan2020": {
+        "authors": [
+            "Fan, K.",
+            "Oldenburg, D. W.",
+            "Maxwell, M.",
+            "Cowan, D.",
+            "Kang, S.",
+            "Heagy, L. J.",
+            "Capriotti, J.",
+            "Fan, R.",
+            "Oldenburg, D. W.",
+            "Maxwell, M.",
+            "Cowan, D.",
+            "Kang, S.",
+            "Heagy, L. J.",
+            "Capriotti, J."
+        ],
+        "booktitle": null,
+        "title": "{Improving Water Security in Mon State, Myanmar via Geophysical Capacity Building}",
+        "year": "2020",
+        "journal": "SEG Annual Meeting",
+        "doi": null,
+        "arxivId": null,
+        "url": null
+    },
+    "Heagy2020a": {
+        "authors": [
+            "Heagy, L. J.",
+            "Kang, S.",
+            "Cockett, R.",
+            "Oldenburg, D. W."
+        ],
+        "booktitle": null,
+        "title": "{Open-source software for simulations and inversions of airborne electromagnetic data}",
+        "year": "2020",
+        "journal": "Exploration Geophysics",
+        "doi": "10.1080/08123985.2019.1583538",
+        "arxivId": "1902.08238",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/08123985.2019.1583538"
+    },
+    "Astic2021": {
+        "authors": [
+            "Astic, T.",
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "booktitle": null,
+        "title": "{Petrophysically and geologically guided multi-physics inversion using a dynamic Gaussian mixture model}",
+        "year": "2020",
+        "journal": "Geophysical Journal International",
+        "doi": "10.1093/gji/ggaa378",
+        "arxivId": "2002.09515",
+        "url": "https://academic.oup.com/gji/article/224/1/40/5895341"
+    },
+    "Fournier2020": {
+        "authors": [
+            "Fournier, D.",
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "booktitle": null,
+        "title": "{Sparse magnetic vector inversion in spherical coordinates}",
+        "year": "2020",
+        "journal": "GEOPHYSICS",
+        "doi": "10.1190/geo2019-0244.1",
+        "arxivId": null,
+        "url": "https://library.seg.org/doi/10.1190/geo2019-0244.1"
+    },
+    "Heagy2019": {
+        "authors": [
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "booktitle": null,
+        "title": "{Direct current resistivity with steel-cased wells}",
+        "year": "2019",
+        "journal": "Geophysical Journal International",
+        "doi": "10.1093/gji/ggz281",
+        "arxivId": "1810.12446",
+        "url": "http://arxiv.org/abs/1810.12446 https://doi.org/10.1093/gji/ggz281 https://academic.oup.com/gji/article/219/1/1/5519862"
+    },
+    "Barba2019a": {
+        "authors": [
+            "Barba, L. A.",
+            "Baz{\\'a}n, J.",
+            "Brown, J.",
+            "Guimera, R. V.",
+            "Gymrek, M.",
+            "Hanna, A.",
+            "Heagy, L.",
+            "Huff, K. D.",
+            "Katz, D. S.",
+            "Madan, C.",
+            "Moerman, K.",
+            "Niemeyer, K.",
+            "Poulson, J. L.",
+            "Prins, P.",
+            "Ram, K.",
+            "Rokem, A.",
+            "Smith, A. M.",
+            "Thiruvathukal, G. K.",
+            "Thyng, K.",
+            "Uieda, L.",
+            "Wilson, B.",
+            "Yehudi, Y."
+        ],
+        "booktitle": null,
+        "title": "{Giving software its due through community-driven review and publication}",
+        "year": "2019",
+        "journal": "OSF Preprints",
+        "doi": "10.31219/osf.io/f4vx6",
+        "arxivId": null,
+        "url": null
+    },
+    "Heagy2019a": {
+        "authors": [
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "booktitle": null,
+        "title": "{Modeling electromagnetics on cylindrical meshes with applications to steel-cased wells}",
+        "year": "2019",
+        "journal": "Computers & Geosciences",
+        "doi": "10.1016/j.cageo.2018.11.010",
+        "arxivId": "1804.07991",
+        "url": "https://doi.org/10.1016/j.cageo.2018.11.010 https://linkinghub.elsevier.com/retrieve/pii/S009830041830390X http://arxiv.org/abs/1804.07991"
+    },
+    "Cockett2017": {
+        "authors": [
+            "Cockett, R.",
+            "Heagy, L. J.",
+            "Haber, E."
+        ],
+        "booktitle": null,
+        "title": "{Efficient 3D inversions using the Richards equation}",
+        "year": "2018",
+        "journal": "Computers & Geosciences",
+        "doi": "10.1016/j.cageo.2018.04.006",
+        "arxivId": null,
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0098300417311494"
+    },
+    "Heagy2017": {
+        "authors": [
+            "Heagy, L. J.",
+            "Cockett, R.",
+            "Kang, S.",
+            "Rosenkjaer, G. K.",
+            "Oldenburg, D. W."
+        ],
+        "booktitle": null,
+        "title": "{A framework for simulation and inversion in electromagnetics}",
+        "year": "2017",
+        "journal": "Computers & Geosciences",
+        "doi": "10.1016/j.cageo.2017.06.018",
+        "arxivId": "1610.00804",
+        "url": "http://arxiv.org/abs/1610.00804 http://dx.doi.org/10.1016/j.cageo.2017.06.018 https://linkinghub.elsevier.com/retrieve/pii/S0098300416303946"
+    },
+    "CaudilloMata2017": {
+        "authors": [
+            "Caudillo-Mata, L.",
+            "Haber, E.",
+            "Heagy, L.",
+            "Schwarzbach, C."
+        ],
+        "booktitle": null,
+        "title": "{A framework for the upscaling of the electrical conductivity in the quasi-static Maxwell's equations}",
+        "year": "2017",
+        "journal": "Journal of Computational and Applied Mathematics",
+        "doi": "10.1016/j.cam.2016.11.051",
+        "arxivId": "1610.02948",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0377042716305933"
+    },
+    "Heagy2017a": {
+        "authors": [
+            "Heagy, L. J.",
+            "Cockett, R.",
+            "Oldenburg, D. W."
+        ],
+        "booktitle": null,
+        "title": "{Modular electromagnetic simulations with applications to steel cased wells}",
+        "year": "2017",
+        "journal": "Proceedings of the Sixth International Symposium in Three-Dimensional Electromagnetics",
+        "doi": null,
+        "arxivId": null,
+        "url": "http://www.gwhohmann.org/3dem-6-proceedings-download.html"
+    },
+    "Cockett2015": {
+        "authors": [
+            "Cockett, R.",
+            "Kang, S.",
+            "Heagy, L. J.",
+            "Pidlisecky, A.",
+            "Oldenburg, D. W."
+        ],
+        "booktitle": null,
+        "title": "{SimPEG: An open source framework for simulation and gradient based parameter estimation in geophysical applications}",
+        "year": "2015",
+        "journal": "Computers & Geosciences",
+        "doi": "10.1016/j.cageo.2015.09.015",
+        "arxivId": null,
+        "url": "http://linkinghub.elsevier.com/retrieve/pii/S009830041530056X https://linkinghub.elsevier.com/retrieve/pii/S009830041530056X"
+    }
+}
