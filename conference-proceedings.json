@@ -6,45 +6,14 @@
             "P{\\'{e}}rez, F.",
             "Beran, L."
         ],
+        "award": null,
         "booktitle": "SEG Technical Program Expanded Abstracts 2020",
-        "title": "{Machine learning for the classification of unexploded ordnance (UXO) from electromagnetic data}",
+        "title": "Machine learning for the classification of unexploded ordnance (UXO) from electromagnetic data",
         "year": "2020",
         "journal": null,
         "doi": "10.1190/segam2020-3428369.1",
         "arxivId": null,
-        "url": "https://library.seg.org/doi/10.1190/segam2020-3428369.1"
-    },
-    "Oldenburg2020": {
-        "authors": [
-            "Kang, S.",
-            "Capriotti, J.",
-            "Oldenburg, D. W.",
-            "Heagy, L. J.",
-            "Cowan, D."
-        ],
-        "booktitle": "SEG Technical Program Expanded Abstracts 2020",
-        "title": "{Open-source geophysical software development for groundwater applications}",
-        "year": "2020",
-        "journal": null,
-        "doi": "10.1190/segam2020-3425913.1",
-        "arxivId": null,
-        "url": "https://library.seg.org/doi/10.1190/segam2020-3425913.1"
-    },
-    "Kang2020": {
-        "authors": [
-            "Kang, S.",
-            "Capriotti, J.",
-            "Oldenburg, D. W.",
-            "Heagy, L. J.",
-            "Cowan, D."
-        ],
-        "booktitle": "SEG Technical Program Expanded Abstracts 2020",
-        "title": "{Open-source geophysical software development for groundwater applications}",
-        "year": "2020",
-        "journal": null,
-        "doi": "10.1190/segam2020-3425913.1",
-        "arxivId": null,
-        "url": "https://library.seg.org/doi/10.1190/segam2020-3425913.1"
+        "url": "https://github.com/simpeg-research/heagy-et-al-2020-uxo-seg"
     },
     "Cholia2020": {
         "authors": [
@@ -58,13 +27,65 @@
             "Perez, F.",
             "Ramakrishnan, L."
         ],
+        "award": null,
         "booktitle": "2020 IEEE/ACM HPC for Urgent Decision Making (UrgentHPC)",
-        "title": "{Towards Interactive, Reproducible Analytics at Scale on HPC Systems}",
+        "title": "Towards Interactive, Reproducible Analytics at Scale on HPC Systems",
         "year": "2020",
         "journal": null,
         "doi": "10.1109/UrgentHPC51945.2020.00011",
         "arxivId": null,
-        "url": "https://ieeexplore.ieee.org/document/9307626/"
+        "url": null
+    },
+    "Kang2020": {
+        "authors": [
+            "Kang, S.",
+            "Capriotti, J.",
+            "Oldenburg, D. W.",
+            "Heagy, L. J.",
+            "Cowan, D."
+        ],
+        "award": null,
+        "booktitle": "SEG Technical Program Expanded Abstracts 2020",
+        "title": "Open-source geophysical software development for groundwater applications",
+        "year": "2020",
+        "journal": null,
+        "doi": "10.1190/segam2020-3425913.1",
+        "arxivId": null,
+        "url": null
+    },
+    "Fan2020": {
+        "authors": [
+            "Fan, K.",
+            "Oldenburg, D. W.",
+            "Maxwell, M.",
+            "Cowan, D.",
+            "Kang, S.",
+            "Heagy, L. J.",
+            "Capriotti, J."
+        ],
+        "award": null,
+        "booktitle": "SEG Technical Program Expanded Abstracts 2020",
+        "title": "Improving water security in Mon State, Myanmar via geophysical capacity building",
+        "year": "2020",
+        "journal": null,
+        "doi": "10.1190/segam2020-3428432.1",
+        "arxivId": null,
+        "url": null
+    },
+    "Heagy2017a": {
+        "authors": [
+            "Heagy, L. J.",
+            "Cockett, R.",
+            "Oldenburg, D. W."
+        ],
+        "award": null,
+        "booktitle": "Proceedings of the Sixth International Symposium in Three-Dimensional Electromagnetics",
+        "title": "Modular electromagnetic simulations with applications to steel cased wells",
+        "year": "2017",
+        "journal": null,
+        "doi": null,
+        "arxivId": null,
+        "url": "http://www.gwhohmann.org/3dem-6-proceedings-download.html"
     },
     "Yang2016": {
         "authors": [
@@ -72,13 +93,14 @@
             "Oldenburg, D.",
             "Heagy, L."
         ],
+        "award": null,
         "booktitle": "SEG Technical Program Expanded Abstracts 2016",
-        "title": "{3D DC resistivity modeling of steel casing for reservoir monitoring using equivalent resistor network}",
+        "title": "3D DC resistivity modeling of steel casing for reservoir monitoring using equivalent resistor network",
         "year": "2016",
         "journal": null,
         "doi": "10.1190/segam2016-13868475.1",
         "arxivId": null,
-        "url": "https://library.seg.org/doi/10.1190/segam2016-13868475.1"
+        "url": null
     },
     "Heagy2015": {
         "authors": [
@@ -87,13 +109,14 @@
             "Oldenburg, D. W.",
             "Wilt, M."
         ],
+        "award": null,
         "booktitle": "SEG Technical Program Expanded Abstracts 2015",
-        "title": "{Modelling electromagnetic problems in the presence of cased wells}",
+        "title": "Modelling electromagnetic problems in the presence of cased wells",
         "year": "2015",
         "journal": null,
         "doi": "10.1190/segam2015-5931035.1",
         "arxivId": null,
-        "url": "http://library.seg.org/doi/10.1190/segam2015-5931035.1 https://library.seg.org/doi/10.1190/segam2015-5931035.1"
+        "url": null
     },
     "Kang2015": {
         "authors": [
@@ -102,13 +125,67 @@
             "Heagy, L. J.",
             "Oldenburg, D. W."
         ],
+        "award": null,
         "booktitle": "SEG Technical Program Expanded Abstracts 2015",
-        "title": "{Moving between dimensions in electromagnetic inversions}",
+        "title": "Moving between dimensions in electromagnetic inversions",
         "year": "2015",
         "journal": null,
         "doi": "10.1190/segam2015-5930379.1",
         "arxivId": null,
-        "url": "https://library.seg.org/doi/abs/10.1190/segam2015-5930379.1 http://library.seg.org/doi/10.1190/segam2015-5930379.1 https://library.seg.org/doi/10.1190/segam2015-5930379.1"
+        "url": null
+    },
+    "Heagy2014": {
+        "authors": [
+            "Heagy, L. J.",
+            "Cockett, A. R.",
+            "Oldenburg, D. W.",
+            "Heagy*, L. J.",
+            "Cockett, A. R.",
+            "Oldenburg, D. W."
+        ],
+        "award": null,
+        "booktitle": "SEG Technical Program Expanded Abstracts 2014",
+        "title": "Parametrized inversion framework for proppant volume in a hydraulically fractured reservoir",
+        "year": "2014",
+        "journal": null,
+        "doi": "10.1190/segam2014-1639.1",
+        "arxivId": null,
+        "url": null
+    },
+    "Heagy2014a": {
+        "authors": [
+            "Heagy, L. J. L.",
+            "Oldenburg, D. W. D.",
+            "Chen, J."
+        ],
+        "award": null,
+        "booktitle": "Geoconvention.Com",
+        "title": "Where does the proppant go? Examining the application of electromagnetic methods for hydraulic fracture characterization",
+        "year": "2014",
+        "journal": null,
+        "doi": null,
+        "arxivId": null,
+        "url": "http://www.geoconvention.com/uploads/abstracts/334_GC2014_Where_does_the_proppant_go.pdf"
+    },
+    "CaudilloMata2014": {
+        "authors": [
+            "Caudillo-Mata, L. A.",
+            "Haber, E.",
+            "Heagy, L. J.",
+            "Oldenburg, D. W.",
+            "Caudillo-Mata, L. A.",
+            "Haber, E.",
+            "Heagy, L. J.",
+            "Oldenburg, D. W."
+        ],
+        "award": null,
+        "booktitle": "SEG Technical Program Expanded Abstracts 2014",
+        "title": "Numerical upscaling of electrical conductivity: A problem specific approach to generate coarse-scale models",
+        "year": "2014",
+        "journal": null,
+        "doi": "10.1190/segam2014-1488.1",
+        "arxivId": null,
+        "url": null
     },
     "Wilt2014": {
         "authors": [
@@ -116,38 +193,14 @@
             "Heagy, L.",
             "Chen, J."
         ],
+        "award": null,
         "booktitle": "76th European Association of Geoscientists and Engineers Conference and Exhibition 2014: Experience the Energy - Incorporating SPE EUROPEC 2014",
-        "title": "{Hydrofracture Mapping and Monitoring with Borehole Electromagnetic (EM) Methods}",
+        "title": "Hydrofracture Mapping and Monitoring with Borehole Electromagnetic (EM) Methods",
         "year": "2014",
         "journal": null,
         "doi": "10.3997/2214-4609.20141174",
         "arxivId": null,
-        "url": "http://www.earthdoc.org/publication/publicationdetails/?publication=76045"
-    },
-    "Devriese2014": {
-        "authors": [
-            "Devriese, S. G. R.",
-            "Corcoran, N.",
-            "Cowan, D.",
-            "Davis, K.",
-            "Bild-Enkin, D.",
-            "Fournier, D.",
-            "Heagy, L.",
-            "Kang, S.",
-            "Marchant, D.",
-            "McMillan, M. S.",
-            "Mitchell, M.",
-            "Rosenkjar, G.",
-            "Yang, D.",
-            "Oldenburg, D. W."
-        ],
-        "booktitle": "SEG Technical Program Expanded Abstracts 2014",
-        "title": "{Magnetic inversion of three airborne data sets over the Tli Kwi Cho kimberlite complex}",
-        "year": "2014",
-        "journal": null,
-        "doi": "10.1190/segam2014-1205.1",
-        "arxivId": null,
-        "url": "https://library.seg.org/doi/10.1190/segam2014-1205.1"
+        "url": null
     },
     "Fournier2014": {
         "authors": [
@@ -166,75 +219,53 @@
             "Yang, D.",
             "Oldenburg, D. W."
         ],
+        "award": null,
         "booktitle": "SEG Technical Program Expanded Abstracts 2014",
-        "title": "{Multi-EM systems inversion - Towards a common conductivity model for the Tli Kwi Cho complex}",
+        "title": "Multi-EM systems inversion - Towards a common conductivity model for the Tli Kwi Cho complex",
         "year": "2014",
         "journal": null,
         "doi": "10.1190/segam2014-1110.1",
         "arxivId": null,
-        "url": "https://library.seg.org/doi/10.1190/segam2014-1110.1"
+        "url": null
     },
-    "CaudilloMata2014": {
+    "Devriese2014": {
         "authors": [
-            "Caudillo-Mata, L. A.",
-            "Haber, E.",
-            "Heagy, L. J.",
-            "Oldenburg, D. W.",
-            "Caudillo-Mata, L. A.",
-            "Haber, E.",
-            "Heagy, L. J.",
+            "Devriese, S. G. R.",
+            "Corcoran, N.",
+            "Cowan, D.",
+            "Davis, K.",
+            "Bild-Enkin, D.",
+            "Fournier, D.",
+            "Heagy, L.",
+            "Kang, S.",
+            "Marchant, D.",
+            "McMillan, M. S.",
+            "Mitchell, M.",
+            "Rosenkjar, G.",
+            "Yang, D.",
             "Oldenburg, D. W."
         ],
+        "award": null,
         "booktitle": "SEG Technical Program Expanded Abstracts 2014",
-        "title": "{Numerical upscaling of electrical conductivity: A problem specific approach to generate coarse-scale models}",
+        "title": "Magnetic inversion of three airborne data sets over the Tli Kwi Cho kimberlite complex",
         "year": "2014",
         "journal": null,
-        "doi": "10.1190/segam2014-1488.1",
+        "doi": "10.1190/segam2014-1205.1",
         "arxivId": null,
-        "url": "http://library.seg.org/doi/abs/10.1190/segam2014-1488.1"
-    },
-    "Heagy2014": {
-        "authors": [
-            "Heagy, L. J.",
-            "Cockett, A. R.",
-            "Oldenburg, D. W.",
-            "Heagy*, L. J.",
-            "Cockett, A. R.",
-            "Oldenburg, D. W."
-        ],
-        "booktitle": "SEG Technical Program Expanded Abstracts 2014",
-        "title": "{Parametrized inversion framework for proppant volume in a hydraulically fractured reservoir}",
-        "year": "2014",
-        "journal": null,
-        "doi": "10.1190/segam2014-1639.1",
-        "arxivId": null,
-        "url": "http://library.seg.org/doi/abs/10.1190/segam2014-1639.1"
-    },
-    "Heagy2014a": {
-        "authors": [
-            "Heagy, L. J. L.",
-            "Oldenburg, D. W. D.",
-            "Chen, J."
-        ],
-        "booktitle": "Geoconvention.Com",
-        "title": "{Where does the proppant go? Examining the application of electromagnetic methods for hydraulic fracture characterization}",
-        "year": "2014",
-        "journal": null,
-        "doi": null,
-        "arxivId": null,
-        "url": "http://www.geoconvention.com/uploads/abstracts/334_GC2014_Where_does_the_proppant_go.pdf"
+        "url": null
     },
     "Heagy2013a": {
         "authors": [
             "Heagy, L. J.",
             "Oldenburg, D. W."
         ],
+        "award": null,
         "booktitle": "SEG Technical Program Expanded Abstracts 2013",
-        "title": "{Investigating the potential of using conductive or permeable proppant particles for hydraulic fracture characterization}",
+        "title": "Investigating the potential of using conductive or permeable proppant particles for hydraulic fracture characterization",
         "year": "2013",
         "journal": null,
         "doi": "10.1190/segam2013-1372.1",
         "arxivId": null,
-        "url": "https://library.seg.org/doi/10.1190/segam2013-1372.1"
+        "url": null
     }
 }

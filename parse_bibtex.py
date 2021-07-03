@@ -8,10 +8,16 @@ peer_reviewed = {}
 non_peer_reviewed = {}
 conference_proceedings = {}
 
-non_peer_reviewed_journals = ["The Leading Edge"]
+non_peer_reviewed_journals = ["The Leading Edge", "OSF Preprints"]
 
 awards = {
     "Heagy2013": "Award of Merit (Best Student Paper, Annual Meeting)"
+}
+
+accents = {
+    "\'a": u"á",
+    "\"u": u"ü",
+    "\'e": u"é",
 }
 
 for key in bib_data.entries.keys():
@@ -30,9 +36,17 @@ for key in bib_data.entries.keys():
 
     for k in d.keys():
         if k in entry.fields.keys():
+            if isinstance(entry.fields[k], str):
+                entry.fields[k] = entry.fields[k].replace("{", "")
+                entry.fields[k] = entry.fields[k].replace("}", "")
             d[k] = entry.fields[k]
     for p in entry.persons["author"]:
-        d["authors"].append(", ".join([" ".join(p.last_names), " ".join([f[0] + "." for f in p.bibtex_first_names])]))
+        d["authors"].append(
+            ", ".join([
+                " ".join(p.last_names).translate(accents),
+                " ".join([f[0] + "." for f in p.bibtex_first_names]).translate(accents)
+            ])
+        )
 
     if entry.type == "article":
         if entry.fields["journal"] in non_peer_reviewed_journals:

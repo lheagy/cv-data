@@ -5,8 +5,9 @@
             "Heagy, L. J.",
             "Kang, S."
         ],
+        "award": null,
         "booktitle": null,
-        "title": "{Geophysical electromagnetics: A retrospective, DISC 2017, and a look forward}",
+        "title": "Geophysical electromagnetics: A retrospective, DISC 2017, and a look forward",
         "year": "2021",
         "journal": "The Leading Edge",
         "doi": "10.1190/tle40020140.1",
@@ -27,13 +28,48 @@
             "Lippert, D.",
             "Others, "
         ],
+        "award": null,
         "booktitle": null,
-        "title": "{Teaching and Learning with Jupyter}",
+        "title": "Teaching and Learning with Jupyter",
         "year": "2019",
         "journal": null,
         "doi": null,
         "arxivId": null,
         "url": "https://jupyter4edu.github.io/jupyter-edu-book/"
+    },
+    "Barba2019a": {
+        "authors": [
+            "Barba, L. A.",
+            "Baz{\\'a}n, J.",
+            "Brown, J.",
+            "Guimera, R. V.",
+            "Gymrek, M.",
+            "Hanna, A.",
+            "Heagy, L.",
+            "Huff, K. D.",
+            "Katz, D. S.",
+            "Madan, C.",
+            "Moerman, K.",
+            "Niemeyer, K.",
+            "Poulson, J. L.",
+            "Prins, P.",
+            "Ram, K.",
+            "Rokem, A.",
+            "Smith, A. M.",
+            "Thiruvathukal, G. K.",
+            "Thyng, K.",
+            "Uieda, L.",
+            "Wilson, B.",
+            "Yehudi, Y."
+        ],
+        "award": null,
+        "booktitle": null,
+        "title": "Giving software its due through community-driven review and publication",
+        "year": "2019",
+        "journal": "OSF Preprints",
+        "doi": "10.31219/osf.io/f4vx6",
+        "arxivId": null,
+        "url": null
     },
     "Kang2017": {
         "authors": [
@@ -42,13 +78,14 @@
             "Cockett, R.",
             "Oldenburg, D. W."
         ],
+        "award": null,
         "booktitle": null,
-        "title": "{Exploring nonlinear inversions: A 1D magnetotelluric example}",
+        "title": "Exploring nonlinear inversions: A 1D magnetotelluric example",
         "year": "2017",
         "journal": "The Leading Edge",
         "doi": "10.1190/tle36080696.1",
         "arxivId": null,
-        "url": "https://library.seg.org/doi/10.1190/tle36080696.1"
+        "url": null
     },
     "Cockett2016": {
         "authors": [
@@ -56,13 +93,14 @@
             "Heagy, L. J.",
             "Oldenburg, D. W."
         ],
+        "award": null,
         "booktitle": null,
-        "title": "{Pixels and their neighbors: Finite volume}",
+        "title": "Pixels and their neighbors: Finite volume",
         "year": "2016",
         "journal": "The Leading Edge",
         "doi": "10.1190/tle35080703.1",
         "arxivId": null,
-        "url": "http://library.seg.org/doi/10.1190/tle35080703.1 http://dx.doi.org/10.1190/tle35080703.1 http://tle.geoscienceworld.org/content/35/8/703 https://library.seg.org/doi/10.1190/tle35080703.1"
+        "url": null
     },
     "Wilt2015": {
         "authors": [
@@ -70,8 +108,9 @@
             "Cuevas, N.",
             "Heagy, L."
         ],
+        "award": null,
         "booktitle": null,
-        "title": "{Determining proppant and fluid distribution}",
+        "title": "Determining proppant and fluid distribution",
         "year": "2015",
         "journal": null,
         "doi": null,
